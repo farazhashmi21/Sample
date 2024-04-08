@@ -1,0 +1,7 @@
+Site Title: Sample WordPress
+Username: adminfarazhashmi
+Password:
+Email Address: developerfaraz@yahoo.com
+Table Prefix: sap_
+Official URL:
+Login URL:
